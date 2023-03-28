@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "54dadce4a876f086",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4f52b6ec20a209e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NPCs/Snake Pit/Yellow Cobra.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea773f026dcddb22",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca70cc873cce066b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98900483dde68244",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "569552924d91d735",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1dda03832acf2891",
+    "type": "split",
+    "children": [
+      {
+        "id": "8078869e1dba5bd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "826a74a37e700cac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Snake Pit/Yellow Cobra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e4f52b6ec20a209e",
+  "lastOpenFiles": [
+    "Attachments/Character Sheets/Mollymauk.pdf",
+    "Party/Q'Ulrunteor.md",
+    "Other Planes/Fey Realm/Feywild Entrances.md",
+    "Other Planes/Fey Realm/Brokenstone Vale.md",
+    "NPCs/Recurring - Other/Helmighty Heroes/Nelsyn.md",
+    "NPCs/Recurring - Other/Helmighty Heroes/Altalas.md",
+    "NPCs/Snake Pit/Yellow Cobra.md",
+    "NPCs/Recurring - Other/Helmighty Heroes/Bruno.md",
+    "Towns/Kinenkila/Kinenkila.md",
+    "Dieties/Tyr.md"
+  ]
+}

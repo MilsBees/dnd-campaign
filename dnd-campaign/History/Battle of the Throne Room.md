@@ -1,0 +1,2 @@
+# Battle of the Throne Room
+Event in history when the regent [[Benji]] was forcibly removed from the throne by [[Ruin]] and the Queen's guard ([[Albin 'Morningstar' Jones]], [[Pennyweather Reeves]] and [[Wallace DeGrey]]) to give [[Queen Daelia]] her rightful place on the throne.

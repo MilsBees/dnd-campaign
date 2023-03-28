@@ -1,0 +1,4 @@
+# The Great Loss
+About 50 years before the start of the campaign, the Great Loss ended when the original members of the [[Arcane Accord]] rediscovered magic and setup the Watesyndr Academy for the Arcane.
+
+The Great Loss was an event that occurred an undetermined amount of time ago wherein a group of gods chose to wipe the collective memories of all of [[Ayora]]'s people of their arcane knowledge. Why this was done is not well known, though there are texts that suggest that the gods were fearful of the progress wizards were making at the time and took it upon themselves to halt their progress before their power was challenged.

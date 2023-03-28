@@ -1,0 +1,1 @@
+Curly Peak is a mountain that looks down over the [[Brokenstone Vale]]. There's snow atop its peak, although this would be impossible on the Material Plane. 

@@ -1,0 +1,1 @@
+Triss Daggerforth is a former member of [[Ruin]]. She was a cleric.

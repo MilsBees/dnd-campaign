@@ -1,0 +1,1 @@
+Faction of pirates. Often at odds with the [[Kira Unity]].

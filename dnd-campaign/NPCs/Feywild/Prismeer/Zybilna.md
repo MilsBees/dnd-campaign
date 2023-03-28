@@ -1,0 +1,1 @@
+Zybilna is the Queen of Prismeer but is now captured by the [[Hourglass Coven]] and trapped in her home. 
