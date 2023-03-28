@@ -1,0 +1,1 @@
+The Wayward Pool is the home of [[Lamorna]]. The pool cannot be reached unless disguised as a unicorn. 
