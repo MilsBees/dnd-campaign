@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "32cc965d5f2ddf11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other Planes/Fey Realm/Prismeer/Tree of Infinity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5b63b48dffb4b1ec",
             "type": "leaf",
             "state": {
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Arcane Accord.md",
+                "file": "NPCs/Wizards/Azuvira.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other Planes/Fey Realm/Prismeer/Tree of Infinity.md",
+                "file": "NPCs/Wizards/Azuvira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,28 +189,30 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "32cc965d5f2ddf11",
+  "active": "60e37cadb815c31b",
   "lastOpenFiles": [
+    "Attachments/Character Sheets/Azuvira.pdf",
+    "Factions/Arcane Accord.md",
+    "NPCs/Feywild/Prismeer/Hither/Charm.md",
+    "Azuvira.pdf.md",
+    "NPCs/Wizards/Azuvira.md",
+    "Attachments/Character Sheets/Albin Morningstar Jones.pdf",
+    "Other Planes/Fey Realm/Prismeer/Tree of Infinity.md",
     "Other Planes/Fey Realm/Prismeer/Yon.md",
     "Other Planes/Fey Realm/Prismeer/Tither.md",
     "Other Planes/Fey Realm/Rules of the Feywild.md",
     "Other Planes/Fey Realm/Prismeer/Dewdrops.md",
     "Other Planes/Fey Realm/Prismeer/Wayward Pool.md",
-    "NPCs/Wizards/Azuvira.md",
     "NPCs/Feywild/Prismeer/Tither/Lamorna.md",
     "NPCs/Feywild/Prismeer/Tither/Dailili.md",
     "NPCs/Feywild/Prismeer/Yon/Endelyn Moongrave.md",
     "Towns/Feywild/Prismeer.md",
     "NPCs/Feywild/Prismeer/Tither/Skabatha Nightshade.md",
-    "Other Planes/Fey Realm/Prismeer/Tree of Infinity.md",
     "Other Planes/Fey Realm/Prismeer/Hither.md",
     "Towns/Feywild/Shatterstone.md",
-    "Factions/Arcane Accord.md",
     "Factions/Emerald Enclave.md",
     "NPCs/Feywild/Prismeer/Tither/Doric.md",
-    "Attachments/Character Sheets/Azuvira.pdf",
     "Parties/New Party/Florp.md",
-    "NPCs/Feywild/Prismeer/Hither/Charm.md",
     "Factions/Bard College of Valor.md",
     "Towns/Osloch/Osloch.md",
     "Attachments/Maps/Elanin map.png",

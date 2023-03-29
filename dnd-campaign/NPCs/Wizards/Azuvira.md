@@ -10,6 +10,13 @@ Azuvira is one of the five great wizards who brought magic back to Elanin after 
 
 Ruin will find her in the forest on the way to meeting [[Lamorna]] at the [[Wayward Pool]].
 
+### What does she know?
+Azuvira is surprised that [[Raszu]] and [[Koren Helder|Koren]] sent a party to go look for her. They should be aware of potential for time shifts, so the fact that she has been gone for a few weeks shouldn't be too much of a worry. 
+
+With a DC 20 insight check players will be able to discern that she knows what this means and they can see her adjusting some plans in her head. 
+
+Azuvira came to the Feywild to finalize her Plane Shift spell. Her goal is to acquire an anchor for each plane of existence.
+
 ## Stat Block
 See [[Azuvira.pdf|Character Sheet]].
 
