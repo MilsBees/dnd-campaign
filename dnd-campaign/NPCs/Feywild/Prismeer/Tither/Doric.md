@@ -1,9 +1,18 @@
 # Doric
 ## Description
-Doric is a red headed tiefling druid with short horns that that twist and curve slightly backwards near the top. Her hair is wavy and about shoulder length. Her tail is quite lengthy that comes to a menacing looking point, reminiscent of a scorpion's stinger. She wears leather armor. On her left arm she has a built in sling that hangs off two eaglelike claws.
+Doric is a red headed tiefling druid with short horns that that twist and curve slightly backwards near the top. Her hair is wavy and about shoulder length. Her tail is quite lengthy that comes to a menacing looking point, reminiscent of a scorpion's stinger. She wears leather armor. On her left arm she has a built in sling that hangs off two eaglelike claws.  She's from [[Swanband]].
 
 ## Personality Traits
 Doric can be a bit brusque, but fights hard for all she believes in. In this case, she's wants [[Skabatha Nightshade]] gone because she has disturbed the balance of [[Tither]]. 
+
+## What she knows
+Doric has been sent to the Feywild at the behest of the [[Emerald Enclave]] as part of routine scouting missions as the forests of the Feywild can have profound effects on those of the Material Plane. 
+
+She's worried because the trees seem disturbed and not themselves. She believes [[Skabatha Nightshade]] and the [[Hourglass Coven]] are responsible for this. She was looking for a working portal back to the Material Plane as the portal she came in had been corrupted and rendered unusable. 
+
+She's heard that there are a group led by [[Will of the Feywild]] that are working against [[Skabatha Nightshade]]. She was headed there now. 
+
+She's also heard that [[Azuvira]] (or at least some wizard) has been seen in the forests, closer to the [[Wayward Pool]]. 
 
 ## Stat Block
 **Armor Class**: 14

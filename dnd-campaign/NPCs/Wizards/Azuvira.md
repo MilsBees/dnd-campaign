@@ -15,7 +15,11 @@ Azuvira is surprised that [[Raszu]] and [[Koren Helder|Koren]] sent a party to g
 
 With a DC 20 insight check players will be able to discern that she knows what this means and they can see her adjusting some plans in her head. 
 
+With a high enough persuasion check (DC 23) reveals that a timeline has been moved up to infiltrate [[Mardomar]] and take down [[Johansen]].
+
 Azuvira came to the Feywild to finalize her Plane Shift spell. Her goal is to acquire an anchor for each plane of existence.
+
+Azuvira will take out [[Endelyn Moongrave]] in [[Yon]] if the party deals with [[Skabatha Nightshade]]. Then they will meet up again to deal with [[Dailili]]. 
 
 ## Stat Block
 See [[Azuvira.pdf|Character Sheet]].
