@@ -11,15 +11,21 @@ Azuvira is one of the five great wizards who brought magic back to Elanin after 
 Ruin will find her in the forest on the way to meeting [[Lamorna]] at the [[Wayward Pool]].
 
 ### What does she know?
-Azuvira is surprised that [[Raszu]] and [[Koren Helder|Koren]] sent a party to go look for her. They should be aware of potential for time shifts, so the fact that she has been gone for a few weeks shouldn't be too much of a worry. 
+Azuvira is surprised that [[Raszu]] and [[Koren Helder|Koren]] sent a party to go look for her. They should be aware of potential for time shifts. She knows this to mean that she needs to find a way to slow the progression of time before coming back or she could miss vital happenings in the Material Plane.
 
 With a DC 20 insight check players will be able to discern that she knows what this means and they can see her adjusting some plans in her head. 
 
-With a high enough persuasion check (DC 23) reveals that a timeline has been moved up to infiltrate [[Mardomar]] and take down [[Johansen]].
-
 Azuvira came to the Feywild to finalize her Plane Shift spell. Her goal is to acquire an anchor for each plane of existence.
 
-Azuvira will take out [[Endelyn Moongrave]] in [[Yon]] if the party deals with [[Skabatha Nightshade]]. Then they will meet up again to deal with [[Dailili]]. 
+Azuvira will take out [[Endelyn Moongrave]] in [[Yon]] if the party deals with [[Skabatha Nightshade]]. Then they will meet up again to deal with [[Dailili]]. They will need [[Zybilna]] eventually to help them deal with the time shift. 
+
+When speaking to George:
+Well, that's a neat trick. If I may be so bold, why do you seek this? I sense some urgency in your voice, but venturing into the fiendish realms is an incredibly perilous endeavor. It is a domain of unspeakable horrors and malevolent beings. What drives you to take such a dangerous path?"
+
+First, we have business here to attend to. Then we can discuss this further. I've not been to these planes myself, so there are a few things we'll need, assuming that everything goes swimmingly with the completion of this Plane Shift spell.
+
+Word of advice, if you plan on going there, going alone would be exceedingly foolish. Why communicate this with me in secret? You'll need your companions, so it may be time to start trusting them.
+
 
 ## Stat Block
 See [[Azuvira.pdf|Character Sheet]].

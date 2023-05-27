@@ -1,47 +1,46 @@
-# Skabath Nightshade
+# Skabatha Nightshade
+
 ## Description
-TBD.
+
+Skabatha Nightshade is a capricious Fey creature with an ever-changing appearance. She possesses an air of enchantment, her form shifting between ethereal and solid, and her features transforming with each passing moment. Her eyes sparkle with mischief, and her laughter carries a hint of danger.
 
 ## Personality Traits
-TBD.
+
+Skabatha delights in deception and manipulation, finding pleasure in toying with the lives and perceptions of others. She is capricious and quick to anger, but her ever-changing nature makes it difficult to predict her next move. Skabatha revels in chaos and enjoys using her shapeshifting abilities to confound her enemies and allies alike. She is drawn to power and is willing to form alliances of convenience to further her own agenda.
+
+## Background: ?
+
+(Missing information. Please provide additional details about Skabatha's background.)
 
 ## Stat Block
-**Armor Class**: 15
-**Hit Points**: 110
-**Speed**: 30 ft, 30ft swim
 
-| STR | DEX | CON | INT | WIS | CHA |
-| :--- | :---:  | :---: | :---: | :---: | ---: |
-| +6 | +0 | +4 | +3 | +1 | +2 |
+**Armor Class**: 16 **Hit Points**: 180 **Speed**: 30 ft., fly 60 ft.
 
-**Saving Throws**: Con +8, Int +7, Wis +5, Cha +6
-**Skills** :  Arcana +10, Deception +6, Stealth +4
-**Senses**: Truesight 60 ft, passive perception 14
-**Languages**: Common, Elvish, Sylvan
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|+2|+5|+3|+4|+3|+6|
+
+**Saving Throws**: Dex +12, Con +10, Cha +13 **Skills**: Deception +13, Insight +9, Perception +9, Stealth +12 
+**Senses**: Darkvision 120 ft., passive Perception 19 
+**Languages**: Common, Sylvan **Condition Immunities**: Charmed 
+**Shapechanger**: Skabatha can use her action to polymorph into a Small or Medium humanoid or beast, or back into her true form. Her statistics, other than her size, are unchanged. Any equipment she is wearing or carrying is absorbed or borne by the new form (Skabatha's choice).
+
 **Actions**: 
-**Multiattack**. 
-Bavlorna makes one Bite attack and one Withering Ray attack.
+**Multiattack**. Skabatha makes three attacks: one with her Bite and two with her Claw. 
+**Bite**. _Melee Weapon Attack_: +12 to hit, reach 5 ft., one target. _Hit_: 13 (2d6 + 6) piercing damage. 
+**Claw**. _Melee Weapon Attack_: +12 to hit, reach 5 ft., one target. _Hit_: 11 (2d4 + 6) slashing damage. **Fey Charm**. Skabatha targets one creature she can see within 30 feet of her. The target must succeed on a DC 17 Wisdom saving throw or be magically charmed by Skabatha until the end of her next turn. While charmed in this way, the target idolizes Skabatha, considering her a trusted ally to be heeded and protected. The charmed target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Bite**. 
-_Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) piercing damage, and the target is [grappled](https://5e.tools/conditionsdiseases.html#grappled_phb) (escape DC 17) if it is a Medium or smaller creature. Until the grapple ends, the target is [restrained](https://5e.tools/conditionsdiseases.html#restrained_phb), and Bavlorna can't use her Bite attack on another target.
+**Spells**: 
+Skabatha casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 14):
 
-**Withering Ray**. 
-_Ranged Spell Attack:_ +7 to hit, range 60 ft., one target. _Hit:_ 17 (4d6 + 3) necrotic damage.
+- At will: [detect magic](https://5e.tools/spells.html#detect%20magic_phb), [druidcraft](https://5e.tools/spells.html#druidcraft_phb), [speak with animals](https://5e.tools/spells.html#speak%20with%20animals_phb)
+    
+- 2/day each: [polymorph](https://5e.tools/spells.html#polymorph_phb), [remove curse](https://5e.tools/spells.html#remove%20curse_phb), [speak with plants](https://5e.tools/spells.html#speak%20with%20plants_phb)
+    
+- 1/day: [awaken](https://5e.tools/spells.html#awaken_phb) (as an action), [plane shift](https://5e.tools/spells.html#plane%20shift_phb) (self only)
 
-**Create Lornlings (Recharge 5–6).** 
-Bavlorna creates one or two 1-foot-tall duplicates of herself, called lornlings (use the Quickling stat block in appendix C). Each lornling appears in an unoccupied space within 5 feet of Bavlorna, obeys her commands, and takes its turn immediately after hers. A lornling lasts for 1 hour, until it or Bavlorna dies, or until Bavlorna dismisses it as an action. Bavlorna can have no more than eight lornlings in existence at a time.
+**Legendary Actions** Skabatha Nightshade can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Skabatha regains spent legendary actions at the start of her turn.
 
-**Spellcasting**. 
-Bavlorna casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 15):
--   At will: detect magic, firebolt
--   2/day each: create food and water, polymorph, remove curse
--   1/day: Plane Shift (self only), Mirror Image
-
-**Bonus Actions**.
-**Swallow**. 
-Bavlorna swallows a Small or smaller creature she is grappling, ending the grapple on it. The swallowed creature is [blinded](https://5e.tools/conditionsdiseases.html#blinded_phb) and [restrained](https://5e.tools/conditionsdiseases.html#restrained_phb), it has total cover against attacks and other effects outside Bavlorna, and it takes 10 (3d6) acid damage at the start of each of its turns. If the swallowed creature is one of Bavlorna's lornlings, Bavlorna gains all the lornling's memories when the acid damage reduces it to 0 hit points.
-
-Bavlorna can have only one creature swallowed at a time. If Bavlorna dies, a swallowed creature is no longer [restrained](https://5e.tools/conditionsdiseases.html#restrained_phb) and can escape from the corpse using 5 feet of movement, exiting [prone](https://5e.tools/conditionsdiseases.html#prone_phb).
-
-**Legendary Actions**
-Bavlorna takes 1 legendary action: a Withering Ray attack.
+- **Shapechange**. Skabatha uses her Shapechanger trait to change into a different form.
+- **Blurred Image**. Skabatha casts the blur spell on herself without requiring concentration.
+- **Confounding Whispers**. Skabatha targets one creature she can see within 60 feet of her. The target must succeed on a DC 17 Wisdom saving throw or take 16 (3d10) psychic damage and use its reaction to move up to its speed away from Skabatha, provoking opportunity attacks.

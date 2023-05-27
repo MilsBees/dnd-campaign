@@ -10,3 +10,6 @@ An _Orb of Dragonkind_ appears fragile but is impervious to most damage, includi
 
 -   Each time you attune to this artifact, you lose 10lbs permanently
 -   When you attune to this artifact, your constitution score is reduced by 2. A greater restoration spell restores this ability to normal.
+
+## Background Info
+The Red Orb of Dragonkind holds the essence of [[Syrla - The Dreambreaker]]. 
