@@ -2,7 +2,7 @@
 
 ## Description
 
-Skabatha Nightshade is a capricious Fey creature with an ever-changing appearance. She possesses an air of enchantment, her form shifting between ethereal and solid, and her features transforming with each passing moment. Her eyes sparkle with mischief, and her laughter carries a hint of danger.
+Skabatha Nightshade is a capricious Fey creature with an ever-changing appearance. She possesses an air of enchantment, her form shifting between ethereal and solid, and her features transforming with each passing moment. Her eyes sparkle with mischief, and her laughter carries a hint of danger. She has a key on her back that turns slower and slower as she gets angrier. When it's completely still, she will lash out in anger. 
 
 ## Personality Traits
 
@@ -31,7 +31,7 @@ Skabatha delights in deception and manipulation, finding pleasure in toying with
 **Claw**. _Melee Weapon Attack_: +12 to hit, reach 5 ft., one target. _Hit_: 11 (2d4 + 6) slashing damage. **Fey Charm**. Skabatha targets one creature she can see within 30 feet of her. The target must succeed on a DC 17 Wisdom saving throw or be magically charmed by Skabatha until the end of her next turn. While charmed in this way, the target idolizes Skabatha, considering her a trusted ally to be heeded and protected. The charmed target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 **Spells**: 
-Skabatha casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 14):
+Skabatha casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 17):
 
 - At will: [detect magic](https://5e.tools/spells.html#detect%20magic_phb), [druidcraft](https://5e.tools/spells.html#druidcraft_phb), [speak with animals](https://5e.tools/spells.html#speak%20with%20animals_phb)
     

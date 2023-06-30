@@ -1,4 +1,4 @@
-# Adine Von Bard
+# Adine von Bard
 ## Description
  
 ## Personality Traits
