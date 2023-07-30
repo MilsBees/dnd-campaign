@@ -44,3 +44,5 @@ Skabatha casts one of the following spells, requiring no material components and
 - **Shapechange**. Skabatha uses her Shapechanger trait to change into a different form.
 - **Blurred Image**. Skabatha casts the blur spell on herself without requiring concentration.
 - **Confounding Whispers**. Skabatha targets one creature she can see within 60 feet of her. The target must succeed on a DC 17 Wisdom saving throw or take 16 (3d10) psychic damage and use its reaction to move up to its speed away from Skabatha, provoking opportunity attacks.
+
+**Legendary Resistance** 2 of them

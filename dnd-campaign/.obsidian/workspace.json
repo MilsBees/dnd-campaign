@@ -8,12 +8,50 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63737b5d2f85709e",
+            "id": "17966ae0179b89f7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Maps/Taverns/Borcorio - Gerald's (Thieves' Guild).jpg"
+                "file": "NPCs/Feywild/Prismeer/Zybilna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f1c9b36b5210598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Ruin/01-08-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c05a8107c7470ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Feywild/Prismeer/Tither/Dailili.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c3c800138c85260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Elanin.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -35,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Feywild/Unseelie Court/Euphemia Tealeaf.md",
+                "file": "Parties/Ruin/LeBard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Feywild/Unseelie Court/Euphemia Tealeaf.md",
+                "file": "Sessions/Ruin/01-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,13 +173,28 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "32cc965d5f2ddf11",
+  "active": "8f1c9b36b5210598",
   "lastOpenFiles": [
-    "NPCs/Deceased/LeBeedle von Bard de Bard.md",
+    "Geography/Elanin.md",
+    "NPCs/Feywild/Prismeer/Zybilna.md",
+    "NPCs/Feywild/Prismeer/Tither/Dailili.md",
+    "NPCs/Feywild/Unseelie Court/Euphemia Tealeaf.md",
+    "Sessions/Ruin/01-08-23.md",
+    "Overview.md",
+    "Sessions/Ruin",
+    "Sessions",
+    "Geography/Mardomar.md",
+    "Geography/Ayora.md",
+    "Geography/Isera.md",
+    "Geography/Seria.md",
+    "NPCs/Feywild/Prismeer/Hither/Bavlorna Blightstraw.md",
+    "NPCs/Feywild/Prismeer/Tither/Skabatha Nightshade.md",
+    "Attachments/Maps/Taverns/Borcorio - Gerald's (Thieves' Guild).jpg",
     "Parties/Ruin/LeBard.md",
+    "NPCs/Bards/Brulnia Fitch.md",
+    "NPCs/Deceased/LeBeedle von Bard de Bard.md",
     "NPCs/Deceased/Feno de Bard.md",
     "NPCs/Deceased/Adine von Bard.md",
-    "NPCs/Feywild/Unseelie Court/Euphemia Tealeaf.md",
     "Factions/The Family.md",
     "Factions/The Crow's Nest.md",
     "Other Planes/Fey Realm/Unseelie Court.md",
@@ -149,25 +202,12 @@
     "Other Planes/Fey Realm/Rules of the Feywild.md",
     "Other Planes/Fey Realm/Seelie Court.md",
     "NPCs/Dragons/Syrla - The Dreambreaker.md",
-    "Attachments/Maps/Taverns/Borcorio - Gerald's (Thieves' Guild).jpg",
     "Attachments/Maps/Towns/Borcorio.png",
     "Attachments/Maps/Taverns/Borcorio - The Lost Tooth Inn.jpg",
     "NPCs/The Crow's Nest/Jameson Crawley.md",
     "NPCs/The Crow's Nest/Clover.md",
-    "NPCs/The Crow's Nest/Vetrix Lesana.md",
-    "NPCs/Feywild/Seelie Court/Sir Talavar.md",
-    "NPCs/Feywild/Prismeer/Tither/Skabatha Nightshade.md",
-    "NPCs/Wizards/Azuvira.md",
-    "NPCs/Feywild/Prismeer/Hither/Bavlorna Blightstraw.md",
-    "Other Planes/Fey Realm/Prismeer/Tree of Infinity.md",
-    "Overview.md",
-    "Items/Red Orb of Dragonkind.md",
     "Attachments/Maps/Elanin map.png",
-    "Towns/Majuya/Majuya.md",
     "Towns/Majuya",
-    "Other Nations/Mardomar.md",
-    "NPCs/Wizards/Johansen.md",
-    "NPCs/Feywild/Prismeer/Tither/Will of the Feywild.md",
     "Attachments/Maps/Sanzio.png",
     "Attachments/Character Sheets/Azuvira.pdf"
   ]
