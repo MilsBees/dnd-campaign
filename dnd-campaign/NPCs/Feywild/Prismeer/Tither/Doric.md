@@ -1,6 +1,6 @@
 # Doric
 ## Description
-Doric is a red headed tiefling druid with short horns that that twist and curve slightly backwards near the top. Her hair is wavy and about shoulder length. Her tail is quite lengthy that comes to a menacing looking point, reminiscent of a scorpion's stinger. She wears leather armor. On her left arm she has a built in sling that hangs off two eaglelike claws.  She's from [[Swanband]].
+Doric is a red headed tiefling druid with short horns that that twist and curve slightly backwards near the top. Her hair is wavy and about shoulder length. Her tail is quite lengthy that comes to a menacing looking point, reminiscent of a scorpion's stinger. She wears leather armor. On her left arm she has a built in sling that hangs off two eaglelike claws.  She's from [[Swanband]]. 
 
 ## Personality Traits
 Doric can be a bit brusque, but fights hard for all she believes in. In this case, she's wants [[Skabatha Nightshade]] gone because she has disturbed the balance of [[Tither]]. 
@@ -16,7 +16,7 @@ She's also heard that [[Azuvira]] (or at least some wizard) has been seen in the
 
 ## Stat Block
 **Armor Class**: 14
-**Hit Points**: 104
+**Hit Points**: 104 + 14 temp hit points from LeBard
 **Speed**: 30 ft
 
 | STR | DEX | CON | INT | WIS | CHA |

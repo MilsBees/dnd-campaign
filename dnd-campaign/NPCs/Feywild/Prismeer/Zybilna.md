@@ -1,5 +1,11 @@
-## Description
+ ## Description
 Zybilna is the Queen of Prismeer but is now captured by the [[Hourglass Coven]] and trapped in her home. 
+
+Zybilna, the Queen of Prismeer, stands tall and regal with an ethereal grace that seems to mirror the very essence of her realm. Her flowing hair shimmers with an opalescent luminescence, reminiscent of moonlight cascading through the treetops. Eyes of celestial green hold a tranquil and knowing gaze, reflecting the wisdom that lies within her soul.
+
+She dons robes of elegant hues, adorned with delicate patterns of flowers and celestial motifs, as if woven from moonbeams and stardust. Her every movement exudes a serenity that calms those around her, while a soft and melodious voice carries her words with an otherworldly charm.
+
+Though her presence is calming, a fierce determination lies just beneath the surface. Her eyes, like a guardian's watchful stars, betray her resolve to protect Prismeer's delicate balance. Zybilna's elegant bearing conceals a powerful and protective spirit, ever ready to defend the denizens of her realm and ensure the flourishing of its lush and enchanting lands.
 
 ## Personality Traits
 In her presence, an aura of calmness and serenity fills the air, and her voice carries a soothing melody that resonates deep within the souls of those who listen. Despite her commanding presence, Zybilna emanates a warm and benevolent demeanor, with an air of wisdom and understanding that befits a true queen.
