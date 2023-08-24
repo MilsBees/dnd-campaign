@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Feywild/Prismeer/Zybilna.md",
+                "file": "Parties/Ruin/Q'Ulrunteor.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,55 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Ruin/01-08-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c05a8107c7470ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Feywild/Prismeer/Tither/Dailili.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c3c800138c85260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Elanin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "034c7d542a407efa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Feywild/Unseelie Court/Euphemia Tealeaf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32cc965d5f2ddf11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parties/Ruin/LeBard.md",
+                "file": "Parties/Ruin/Ratthew.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Ruin/01-08-23.md",
+                "file": "Parties/Ruin/Ratthew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,10 +127,23 @@
   },
   "active": "8f1c9b36b5210598",
   "lastOpenFiles": [
-    "Geography/Elanin.md",
+    "Parties/Ruin/Q'Ulrunteor.md",
+    "Attachments/Maps/Towns/Bigany.jpg",
+    "Parties/Ruin/Ratthew.md",
+    "Attachments/Maps/Towns/Cullfield.jpg",
+    "Dieties/Wildmother.md",
+    "Attachments/Maps/Elanin map.png",
+    "Attachments/Maps/Towns/Norton.jpg",
     "NPCs/Feywild/Prismeer/Zybilna.md",
-    "NPCs/Feywild/Prismeer/Tither/Dailili.md",
+    "Attachments/Maps/Towns/Sayaarbah.jpg",
+    "Attachments/Maps/Towns/Portelis Town Map.png",
+    "Attachments/Maps/Towns/Kinenkila.jpg",
+    "Attachments/Maps/Towns/Linxakasendalor.jpg",
+    "Attachments/Maps/Sanzio.png",
     "NPCs/Feywild/Unseelie Court/Euphemia Tealeaf.md",
+    "Geography/Elanin.md",
+    "NPCs/Feywild/Prismeer/Tither/Dailili.md",
+    "Parties/Ruin/George.md",
     "Sessions/Ruin/01-08-23.md",
     "Overview.md",
     "Sessions/Ruin",
@@ -200,15 +165,7 @@
     "Other Planes/Fey Realm/Unseelie Court.md",
     "Other Planes/Fey Realm/Prismeer/Yon.md",
     "Other Planes/Fey Realm/Rules of the Feywild.md",
-    "Other Planes/Fey Realm/Seelie Court.md",
-    "NPCs/Dragons/Syrla - The Dreambreaker.md",
-    "Attachments/Maps/Towns/Borcorio.png",
-    "Attachments/Maps/Taverns/Borcorio - The Lost Tooth Inn.jpg",
-    "NPCs/The Crow's Nest/Jameson Crawley.md",
-    "NPCs/The Crow's Nest/Clover.md",
-    "Attachments/Maps/Elanin map.png",
     "Towns/Majuya",
-    "Attachments/Maps/Sanzio.png",
     "Attachments/Character Sheets/Azuvira.pdf"
   ]
 }
