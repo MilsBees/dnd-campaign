@@ -11,11 +11,64 @@
             "id": "3fc9f0dd0e2942d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dnd-campaign/Sessions/Ruin/01-08-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fecb52e44030e2e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dnd-campaign/NPCs/Feywild/Prismeer/Zybilna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7942160697b1445e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dnd-campaign/NPCs/Feywild/Prismeer/Tither/Dailili.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3512763121b92c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dnd-campaign/NPCs/Feywild/Prismeer/Tither/Doric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "394d0a4744c0beb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dnd-campaign/NPCs/Wizards/Azuvira.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,6 +113,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7d8d0e1cdc45a05a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dnd-campaign/NPCs/Feywild/Prismeer/Tither/Dailili.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dnd-campaign/NPCs/Feywild/Prismeer/Tither/Dailili.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dnd-campaign/NPCs/Feywild/Prismeer/Tither/Dailili.md"
+              }
             }
           }
         ]
@@ -138,6 +203,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fc9f0dd0e2942d9",
-  "lastOpenFiles": []
+  "active": "7942160697b1445e",
+  "lastOpenFiles": [
+    "dnd-campaign/NPCs/Feywild/Prismeer/Zybilna.md",
+    "dnd-campaign/NPCs/Feywild/Prismeer/Tither/Dailili.md",
+    "dnd-campaign/NPCs/Feywild/Prismeer/Tither/Doric.md",
+    "dnd-campaign/Sessions/Ruin/01-08-23.md",
+    "dnd-campaign/NPCs/Wizards/Azuvira.md",
+    "dnd-campaign/Attachments/Character Sheets/Azuvira.pdf",
+    "dnd-campaign/Attachments/Maps/Borcorio province.png",
+    "dnd-campaign/NPCs/Recurring - Other/Felver.md"
+  ]
 }
