@@ -21,7 +21,7 @@ Dailili is a newly risen archfey that has come to power in the wake of the captu
 
 ## Stat Block
 **Armor Class**: 20 (natural armor)
-**Hit Points**: 298 275 255 234 223 168
+**Hit Points**: 298
 **Speed**: 30 ft
 
 | STR | DEX | CON | INT | WIS | CHA |

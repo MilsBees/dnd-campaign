@@ -9,6 +9,8 @@ Azuvira is one of the five great wizards who brought magic back to Elanin after 
 
 Ruin will find her in the forest on the way to meeting [[Lamorna]] at the [[Wayward Pool]].
 
+Her tower is in [[Bigany.jpg|Bigany]].
+
 ### What does she know?
 Azuvira is surprised that [[Raszu]] and [[Koren Helder|Koren]] sent a party to go look for her. They should be aware of potential for time shifts. She knows this to mean that she needs to find a way to slow the progression of time before coming back or she could miss vital happenings in the Material Plane.
 

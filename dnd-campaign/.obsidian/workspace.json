@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parties/Ruin/Q'Ulrunteor.md",
+                "file": "Sessions/Ruin/3. 01-10-23 - Ratthew Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parties/Ruin/Ratthew.md",
+                "file": "Sessions/Ruin/3. 01-10-23 - Ratthew Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parties/Ruin/Ratthew.md",
+                "file": "Sessions/Ruin/3. 01-10-23 - Ratthew Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,26 +124,42 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8f1c9b36b5210598",
+  "active": "17966ae0179b89f7",
   "lastOpenFiles": [
+    "Sessions/Ruin/4. 14-10-23 - Back to Material Plane.md",
+    "Sessions/Ruin/2. 24-08-23 - Dailili fight.md",
+    "Sessions/Ruin/3. 01-10-23 - Ratthew Intro.md",
+    "NPCs/Feywild/Prismeer/Zybilna.md",
+    "Attachments/Maps/Elanin map.png",
+    "Attachments/Maps/Southern Elanin.png",
+    "Attachments/Maps/Southern Elanin.map",
+    "Attachments/Character Sheets/Azuvira Berevan.pdf",
+    "Parties/Former Members/Triss Daggerforth.md",
+    "Parties/Former Members",
+    "NPCs/Recurring - Other/Thalindra.md",
+    "Sessions/Ruin/1. 01-08-23 - Dailili prep.md",
+    "Towns/Bigany/Bigany.md",
+    "Towns/Cullfield/Cullfield.md",
+    "Parties/Ruin/Ratthew.md",
+    "Towns/Cullfield",
+    "Towns/Bigany",
+    "NPCs/Feywild/Prismeer/Tither/Dailili.md",
+    "Untitled.md",
+    "NPCs/Wizards/Azuvira.md",
+    "NPCs/Feywild/Prismeer/Tither/Doric.md",
     "Parties/Ruin/Q'Ulrunteor.md",
     "Attachments/Maps/Towns/Bigany.jpg",
-    "Parties/Ruin/Ratthew.md",
     "Attachments/Maps/Towns/Cullfield.jpg",
     "Dieties/Wildmother.md",
-    "Attachments/Maps/Elanin map.png",
     "Attachments/Maps/Towns/Norton.jpg",
-    "NPCs/Feywild/Prismeer/Zybilna.md",
     "Attachments/Maps/Towns/Sayaarbah.jpg",
     "Attachments/Maps/Towns/Portelis Town Map.png",
     "Attachments/Maps/Towns/Kinenkila.jpg",
     "Attachments/Maps/Towns/Linxakasendalor.jpg",
     "Attachments/Maps/Sanzio.png",
-    "NPCs/Feywild/Unseelie Court/Euphemia Tealeaf.md",
+    "Parties/Former Members/Euphemia Tealeaf.md",
     "Geography/Elanin.md",
-    "NPCs/Feywild/Prismeer/Tither/Dailili.md",
     "Parties/Ruin/George.md",
-    "Sessions/Ruin/01-08-23.md",
     "Overview.md",
     "Sessions/Ruin",
     "Sessions",
@@ -154,17 +169,6 @@
     "Geography/Seria.md",
     "NPCs/Feywild/Prismeer/Hither/Bavlorna Blightstraw.md",
     "NPCs/Feywild/Prismeer/Tither/Skabatha Nightshade.md",
-    "Attachments/Maps/Taverns/Borcorio - Gerald's (Thieves' Guild).jpg",
-    "Parties/Ruin/LeBard.md",
-    "NPCs/Bards/Brulnia Fitch.md",
-    "NPCs/Deceased/LeBeedle von Bard de Bard.md",
-    "NPCs/Deceased/Feno de Bard.md",
-    "NPCs/Deceased/Adine von Bard.md",
-    "Factions/The Family.md",
-    "Factions/The Crow's Nest.md",
-    "Other Planes/Fey Realm/Unseelie Court.md",
-    "Other Planes/Fey Realm/Prismeer/Yon.md",
-    "Other Planes/Fey Realm/Rules of the Feywild.md",
     "Towns/Majuya",
     "Attachments/Character Sheets/Azuvira.pdf"
   ]

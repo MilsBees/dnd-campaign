@@ -17,7 +17,7 @@ Her Feyblade, an elegant and radiant weapon, serves as both a symbol of her auth
 
 ## Stat Block
 **Armor Class** 17 (Natural Armor) 
-**Hit Points** 150 (20d8 + 60) 
+**Hit Points** 150
 **Speed** 30 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|

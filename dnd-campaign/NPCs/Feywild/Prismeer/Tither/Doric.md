@@ -16,7 +16,7 @@ She's also heard that [[Azuvira]] (or at least some wizard) has been seen in the
 
 ## Stat Block
 **Armor Class**: 14
-**Hit Points**: 104 + 14 temp hit points from LeBard
+**Hit Points**: 104
 **Speed**: 30 ft
 
 | STR | DEX | CON | INT | WIS | CHA |
