@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17966ae0179b89f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Ruin/3. 01-10-23 - Ratthew Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f1c9b36b5210598",
             "type": "leaf",
             "state": {
@@ -124,7 +112,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "17966ae0179b89f7",
+  "active": "8f1c9b36b5210598",
   "lastOpenFiles": [
     "Sessions/Ruin/4. 14-10-23 - Back to Material Plane.md",
     "Sessions/Ruin/2. 24-08-23 - Dailili fight.md",
